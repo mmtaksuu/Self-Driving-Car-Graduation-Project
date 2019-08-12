@@ -31,3 +31,9 @@ There are six levels of autonomy. These are from 0 to 5. The levels of autonomy 
 A Raspberry Pi collects images from a camera module and send them wirelessly to a computer to feed a Convolutional Neural Network which classifies the images into three classes (Right, Left, and Forward). After making predictions by the computer they are sent to the Raspberry Pi to drive the car accordingly. Collision avoidance is provided by an Ultrasonic Sensor connected to the Raspberry Pi. 
 
 ![sunum03](https://user-images.githubusercontent.com/18046031/62889499-353e0f80-bd4a-11e9-8159-9fa232b90ece.jpeg)
+
+
+### Method of Collecting Data from Road for Classification
+
+I used ***pygame*** module to catch keyboard button information (up, down, right, left) for saving the pictures with the their labels. 
+While the car is driving on the road, pictures come from the camera which is on Rasperry Pi to computer frame-by-frame. But it does not save. However, If I push the buttons (up, down, right or left), the picture is saved with its label into a ***.npz*** extension file.
