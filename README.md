@@ -26,5 +26,8 @@ There are six levels of autonomy. These are from 0 to 5. The levels of autonomy 
 - Knowledge of communication protocols like wifi and radio etc.
 - Having experience with electronic circuits.
 
+### Working Method of This Project
 
+A Raspberry Pi collects images from a camera module and send them wirelessly to a computer to feed a Convolutional Neural Network which classifies the images into three classes (Right, Left, and Forward). After making predictions by the computer they are sent to the Raspberry Pi to drive the car accordingly. Collision avoidance is provided by an Ultrasonic Sensor connected to the Raspberry Pi. 
 
+![sunum03](https://user-images.githubusercontent.com/18046031/62889499-353e0f80-bd4a-11e9-8159-9fa232b90ece.jpeg)
