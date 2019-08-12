@@ -3,6 +3,9 @@
 This project covers a ***Second Level Autonomous Car*** that uses a Deep Learning Model and some of the Computer Vision Techniques.
 It is built on a 1:20 scale hobby RC model car that is controlled by a ***Raspberry Pi (Client)*** wirelessly connected to a ***Computer (Server)***. This project is implemented in Python3, using Keras a high-level machine learning API and OpenCV for image processing.
 
+![sunum02](https://user-images.githubusercontent.com/18046031/62888594-4a19a380-bd48-11e9-8724-44e4e4d21731.jpeg)
+
+
 ### Levels of Autonomy
 There are six levels of autonomy. These are from 0 to 5. The levels of autonomy describe the system, not the vehicle. 
 
@@ -24,4 +27,4 @@ There are six levels of autonomy. These are from 0 to 5. The levels of autonomy 
 - Having experience with electronic circuits.
 
 
-![sunum02](https://user-images.githubusercontent.com/18046031/62888594-4a19a380-bd48-11e9-8724-44e4e4d21731.jpeg)
+
