@@ -13,3 +13,10 @@ There are six levels of autonomy. These are from 0 to 5. The levels of autonomy 
 - **Level 4:** Vehicles are designed to perform all safety-critical driving functions and monitor roadway conditions for an entire trip.
 - **Level 5:** This refers to a fully-autonomous system that expects the vehicle's performance to equal that of a human driver, in every driving scenario.
 
+### Requirements of Understanding This Project
+
+- knowledge of both Convolutional Neural Networks and Python,
+- knowledge of Computer Vision techniques,
+- basic knowledge of OpenCV library,
+- knowledge of communication protocols like wifi and radio etc,
+- having experience with electronic circuits,
