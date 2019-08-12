@@ -15,8 +15,10 @@ There are six levels of autonomy. These are from 0 to 5. The levels of autonomy 
 
 ### Requirements of Understanding This Project
 
-- knowledge of both Convolutional Neural Networks and Python,
-- knowledge of Computer Vision techniques,
-- basic knowledge of OpenCV library,
-- knowledge of communication protocols like wifi and radio etc,
-- having experience with electronic circuits,
+- Knowledge of both Convolutional Neural Networks and Python.
+- Basic knowledge of commonly known modules in python like numpy, scipy, etc.
+- Basic knowledge of both using of Keras and TensorFlow APIs.
+- Knowledge of Computer Vision techniques.
+- Basic knowledge of OpenCV library.
+- Knowledge of communication protocols like wifi and radio etc.
+- Having experience with electronic circuits.
