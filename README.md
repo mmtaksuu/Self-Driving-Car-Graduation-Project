@@ -35,7 +35,7 @@ A Raspberry Pi collects images from a camera module and send them wirelessly to 
 
 ### Method of Collecting Data from the Road for Classification
 
-I used ***pygame*** module to catch keyboard button information (up, down, right, left) for saving the pictures with the their labels. 
+I used ***pygame*** module to catch keyboard button information (up, down, right, left). These information used for saving the pictures with the their labels. 
 While the car is driving on the road, pictures come from the camera which is on Rasperry Pi to computer frame-by-frame. But it does not save. However, If I push the buttons (up, down, right or left), the picture is saved with its label into a ***.npz*** extension file.
 I collected 7000 photos 24x240 pixels to train the neural network. Here are some of them.
 
