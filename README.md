@@ -36,7 +36,9 @@ A Raspberry Pi collects images from a camera module and send them wirelessly to 
 ### Method of Collecting Data from the Road for Classification
 
 I used ***pygame*** module to catch keyboard button information (up, right, left). These information used for saving the pictures with their labels. 
-While the car is driving on the road, pictures come from the camera which is on Rasperry Pi to computer frame-by-frame. But it does not save. However, If I push the buttons (up, right or left), the picture is saved with its label into a ***.npz*** extension file.
+While the car is driving on the road, pictures come from the camera which is on Rasperry Pi to computer frame-by-frame. But it does not save. 
+
+However, If I push the buttons (up, right or left), the picture is saved with its label into a ***.npz*** extension file.
 Here are some of them. As you can see in the below, the pictures have saved with their labels. Notice that some pictures have wrong label, it's my mistake. When you collect data from the road, you should make sure having correct picture and its label. Doing this, gives you better result after training our neural network model.
 
 ![Road_Data_Set](https://user-images.githubusercontent.com/18046031/62891025-623ff180-bd4d-11e9-951e-9818aa28f054.png)
@@ -70,6 +72,8 @@ The enhanced LeNet Model was obtained by changing some parameters of the LeNet-5
 ![modified-model](https://user-images.githubusercontent.com/18046031/62938045-e12d3c80-bdd6-11e9-88af-d04f884bea1f.JPG)
 
 ### Performance Comparison Between LeNet-5 and Modified Model
+
+According to the results, the modified model has more performance than the first LeNet model we used. But the training time is 6 times longer. 
 
 ![comparison](https://user-images.githubusercontent.com/18046031/62939104-23f01400-bdd9-11e9-9198-f96b4a47e8ee.png)
 
