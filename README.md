@@ -79,6 +79,6 @@ According to the results, the modified model has more performance than the first
 
 ### Turkish Traffic Signs Detection
 
-In this project, the Haar Cascade classifier was used to train the Turkish traffic signs to be identified. By generating our own Haar cascade XML files, we can potentially detect any pattern or object. I followed this tutorial [TRAIN YOUR OWN OPENCV HAAR CLASSIFIER](https://coding-robin.de/2013/07/22/train-your-own-opencv-haar-classifier.html) to generate my own classifiers.
+In this project, the Haar Cascade classifier was used to train the Turkish traffic signs to be identified. By generating our own Haar cascade XML files, we can potentially detect any pattern or object. I have followed this tutorial [TRAIN YOUR OWN OPENCV HAAR CLASSIFIER](https://coding-robin.de/2013/07/22/train-your-own-opencv-haar-classifier.html) to generate my own classifiers.
 
 ![haar-pics](https://user-images.githubusercontent.com/18046031/62944306-0fb21400-bde5-11e9-9b90-80da92b36c65.JPG)
