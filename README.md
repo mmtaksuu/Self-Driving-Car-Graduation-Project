@@ -47,6 +47,10 @@ I collected totaling 7000 photos as 24x240 pixels to train the neural network an
 
 ![dataset](https://user-images.githubusercontent.com/18046031/62930386-fdc07900-bdc4-11e9-8a86-6eb95185b142.JPG)
 
-### Architecture of Convolutional Neural Network (CNN)
+### The LeNet-5 Convolutional Neural Network(CNN) Architecture
+
+Typical CNN architectures stack a few convolutional layers, then a pooling layer, then another few convolutional layers, then another pooling layer, and so on. The image gets smaller and smaller as it progresses through the network. The LeNet-5 architecture is the most widely known CNN architecture. It was created by Yann LeCun in 1998 and widely used for handwritten digit recognition (MNIST). 
+
+At the beginning, I used LeNet CNN model for this project. Most of the researchers who were working in the AT&T laboratory have gotten good results for image classification using LeNet model. This is the reason why I decided to start to work with LeNet model for my classification task.
 
 ![resim12](https://user-images.githubusercontent.com/18046031/62932049-14b49a80-bdc8-11e9-80a0-05510f3faace.PNG)
