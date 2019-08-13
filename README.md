@@ -67,4 +67,4 @@ The enhanced LeNet Model was obtained by changing some parameters of the LeNet-5
 4. A new convolution layer with the same filter number is added before the second pooling layer.
 5. The learning rate was reduced from 0.01 to 0.001.
 
-![image](https://user-images.githubusercontent.com/18046031/62937890-872c7700-bdd6-11e9-9b89-da60eab25b8d.png)
+![modified-model](https://user-images.githubusercontent.com/18046031/62938045-e12d3c80-bdd6-11e9-88af-d04f884bea1f.JPG)
