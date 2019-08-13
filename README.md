@@ -53,7 +53,7 @@ Typical CNN architectures stack a few convolutional layers, then a pooling layer
 
 ![resim12](https://user-images.githubusercontent.com/18046031/62932049-14b49a80-bdc8-11e9-80a0-05510f3faace.PNG)
 
-At the beginning, I used LeNet CNN model for this project. Most of the researchers who were working in the AT&T laboratory have gotten good results for image classification using LeNet model. This is the reason why I decided to start to work with LeNet model for my classification task. Here are the LeNet-5 CNN model architecture and its python implementation.
+At the beginning, I used LeNet CNN model for this project. Most of the researchers who were working in the AT&T Bell laboratory have gotten good results for image classification using LeNet model. This is the reason why I decided to start to work with LeNet model for my classification task. Here are the LeNet-5 CNN model architecture and its python implementation.
 
 ![lenet-5](https://user-images.githubusercontent.com/18046031/62934860-4b8daf00-bdce-11e9-8780-f8e47fe11160.JPG)
 
@@ -66,3 +66,5 @@ The enhanced LeNet Model was obtained by changing some parameters of the LeNet-5
 3. In the first pooling layer, the filter count of the subsequent convolution layer was increased from 15 to 30.
 4. A new convolution layer with the same filter number is added before the second pooling layer.
 5. The learning rate was reduced from 0.01 to 0.001.
+
+![image](https://user-images.githubusercontent.com/18046031/62937890-872c7700-bdd6-11e9-9b89-da60eab25b8d.png)
