@@ -57,4 +57,9 @@ At the beginning, I used LeNet CNN model for this project. Most of the researche
 
 ![lenet-5](https://user-images.githubusercontent.com/18046031/62934860-4b8daf00-bdce-11e9-8780-f8e47fe11160.JPG)
 
+### Enhancement of LeNet-5 CNN Model
 
+
+The enhanced LeNet Model was obtained by changing some parameters of the LeNet-5 model. The LeNet model was developed as follows
+
+- 
