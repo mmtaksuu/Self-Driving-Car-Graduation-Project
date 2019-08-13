@@ -37,6 +37,6 @@ A Raspberry Pi collects images from a camera module and send them wirelessly to 
 
 I used ***pygame*** module to catch keyboard button information (up, right, left). These information used for saving the pictures with their labels. 
 While the car is driving on the road, pictures come from the camera which is on Rasperry Pi to computer frame-by-frame. But it does not save. However, If I push the buttons (up, right or left), the picture is saved with its label into a ***.npz*** extension file.
-I collected 7000 photos 24x240 pixels to train the neural network. Here are some of them.
+I collected 7000 photos 24x240 pixels to train the neural network. Here are some of them. As you can see in the below, pictures have saved with their labels. Notice that some pictures has wrong label, it's my mistake. When you collect data from the road, you should make sure having correct picture and its label. Doing this, gives you better result after training our neural network model.
 
 ![Road_Data_Set](https://user-images.githubusercontent.com/18046031/62891025-623ff180-bd4d-11e9-951e-9818aa28f054.png)
