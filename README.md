@@ -61,10 +61,15 @@ At the beginning, I used LeNet CNN model for this project. Most of the researche
 
 The enhanced LeNet Model was obtained by changing some parameters of the LeNet-5 model. The LeNet model was developed as follows
 
-1. The filter number of the first convolution layer has been increased from 30 to 60.
-2. A convolution layer is added  after the first convolution layer. The parameters of this layer (filter number, filter size, activation function) were used as in the first convolution layer.
-3. In the first pooling layer, the filter count of the subsequent convolution layer was increased from 15 to 30.
-4. A new convolution layer with the same filter number is added before the second pooling layer.
-5. The learning rate was reduced from 0.01 to 0.001.
+**1.*** The filter number of the first convolution layer has been increased from 30 to 60.
+**2.** A convolution layer is added  after the first convolution layer. The parameters of this layer (filter number, filter size, activation function) were used as in the first convolution layer.
+**3.** In the first pooling layer, the filter count of the subsequent convolution layer was increased from 15 to 30.
+**4.** A new convolution layer with the same filter number is added before the second pooling layer.
+**5.** The learning rate was reduced from 0.01 to 0.001.
 
 ![modified-model](https://user-images.githubusercontent.com/18046031/62938045-e12d3c80-bdd6-11e9-88af-d04f884bea1f.JPG)
+
+### Performance Comparison Between LeNet-5 and Modified Model
+
+![comparison](https://user-images.githubusercontent.com/18046031/62939104-23f01400-bdd9-11e9-9198-f96b4a47e8ee.png)
+
