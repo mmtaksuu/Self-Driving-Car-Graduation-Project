@@ -3,7 +3,7 @@
 This project covers a ***Second Level Autonomous Car*** that uses a Deep Learning Model and some of the Computer Vision Techniques.
 It is built on a 1:20 scale hobby RC model car that is controlled by a ***Raspberry Pi (Client)*** wirelessly connected to a ***Computer (Server)***. This project is implemented in Python3, using Keras a high-level machine learning API and OpenCV for image processing.
 
-- You can watch this project's video on my [YouTube channel](https://youtu.be/4eMpWpusUP4).
+You can also watch this project's video on my [YouTube channel](https://youtu.be/4eMpWpusUP4).
 
 ![slef](https://user-images.githubusercontent.com/18046031/63015609-19498380-be9a-11e9-9bbc-ebaeb293b627.PNG)
 
