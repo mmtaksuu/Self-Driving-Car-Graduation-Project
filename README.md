@@ -82,4 +82,5 @@ In this project, the Haar Cascade classifier was used to train the Turkish traff
 
 ![haar-pics](https://user-images.githubusercontent.com/18046031/62944306-0fb21400-bde5-11e9-9b90-80da92b36c65.JPG)
 
-![IMG_E5726](https://user-images.githubusercontent.com/18046031/63015566-f3bc7a00-be99-11e9-8a75-dbd7cfd19405.JPG)
+![IMG_E5726](https://user-images.githubusercontent.com/18046031/63015566-f3bc7a00-be99-11e9-8a75-dbd7cfd19405.JPG) 
+![yaya](https://user-images.githubusercontent.com/18046031/63015800-9f65ca00-be9a-11e9-8591-3a28aade3bea.PNG)
