@@ -82,5 +82,9 @@ In this project, the Haar Cascade classifier was used to train the Turkish traff
 
 ![haar-pics](https://user-images.githubusercontent.com/18046031/62944306-0fb21400-bde5-11e9-9b90-80da92b36c65.JPG)
 
+- I have created 10 Turkish Traffic Signs that are given below Haar cascade XML files.
+![trafik_işaretleri](https://user-images.githubusercontent.com/18046031/63016004-26b33d80-be9b-11e9-938c-7507400d03b2.png)
+
+- I have also tested them as real time during my thesis time. Here are some of the tested pictures.
 ![IMG_E5726](https://user-images.githubusercontent.com/18046031/63015566-f3bc7a00-be99-11e9-8a75-dbd7cfd19405.JPG) 
 ![yaya](https://user-images.githubusercontent.com/18046031/63015800-9f65ca00-be9a-11e9-8591-3a28aade3bea.PNG)
